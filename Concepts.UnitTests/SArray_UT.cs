@@ -2,7 +2,7 @@ using Concepts.Library.Datastructures.Basic;
 
 namespace Concepts.UnitTests
 {
-    public class OArray_UnitTests
+    public class SArray_UT
     {
         private SArray<int> _testArray;
 
