@@ -4,12 +4,12 @@ namespace Concepts.UnitTests
 {
     public class OArray_UnitTests
     {
-        private OArray<int> _testArray;
+        private SArray<int> _testArray;
 
         [SetUp]
         public void Setup()
         {
-            _testArray = new OArray<int>(20);
+            _testArray = new SArray<int>(20);
         }
 
         [Test]

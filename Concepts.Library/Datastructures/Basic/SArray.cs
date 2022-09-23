@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Concepts.Library.Datastructures.Basic
 {
-    public class OArray<T>
+    public class SArray<T>
     {
         private T[] _array;
-        public OArray(int size)
+        public SArray(int size)
         {
             _array = new T[size];
         }
