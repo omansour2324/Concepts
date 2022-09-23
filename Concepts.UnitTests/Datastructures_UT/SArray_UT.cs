@@ -1,6 +1,6 @@
 using Concepts.Library.Datastructures.Basic;
 
-namespace Concepts.UnitTests
+namespace Concepts.UnitTests.Datastructures_UT
 {
     public class SArray_UT
     {
