@@ -7,12 +7,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Concepts.Tools", "Concepts\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Concepts.Library", "Concepts.Library\Concepts.Library.csproj", "{4EF56BFC-7F62-4D82-BE43-F71D16062D11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concepts.UnitTests", "Concepts.UnitTests\Concepts.UnitTests.csproj", "{F26CC4A5-48A6-4668-9B41-0B81977BEBC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Concepts.UnitTests", "Concepts.UnitTests\Concepts.UnitTests.csproj", "{F26CC4A5-48A6-4668-9B41-0B81977BEBC8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C385A171-14E8-4C5F-AA34-98D039707A1B}"
 	ProjectSection(SolutionItems) = preProject
 		Notes.txt = Notes.txt
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concepts.Problems", "Concepts.Problems\Concepts.Problems.csproj", "{3A369835-E5ED-433B-892A-2F6C52CB5292}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,6 +34,10 @@ Global
 		{F26CC4A5-48A6-4668-9B41-0B81977BEBC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F26CC4A5-48A6-4668-9B41-0B81977BEBC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F26CC4A5-48A6-4668-9B41-0B81977BEBC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A369835-E5ED-433B-892A-2F6C52CB5292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A369835-E5ED-433B-892A-2F6C52CB5292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A369835-E5ED-433B-892A-2F6C52CB5292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A369835-E5ED-433B-892A-2F6C52CB5292}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
